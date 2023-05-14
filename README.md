@@ -18,9 +18,19 @@ The program uses various random elements, such as random delays and randomly gen
 
 Overall, the "matrix-console" project is a fun and engaging way to experience some of the activities that are often depicted in movies and TV shows about hacking and cybersecurity.
 
-# Usage
+# Installation and Usage
 
-## On Windows 
+## Installation
+
+Execute this command in the terminal:
+
+```bash
+git clone https://github.com/INeddHelp/Matrix-console.git
+```
+
+## Usage
+
+### On Windows 
 
 Open the terminal and type:
 
@@ -29,7 +39,7 @@ cd dist/
 main
 ```
 
-## On Linux
+### On Linux
 
 Open the terminal and type:
 
@@ -40,7 +50,7 @@ chmox +x main
 cd ..
 ```
 
-## On macOS
+### On macOS
 
 Soon
 
