@@ -1,3 +1,4 @@
+import sys
 import time
 import random
 
@@ -86,7 +87,7 @@ def sql_injection_init():
             if again == "Y":
                 start()
             elif again == "N":
-                exit()
+                sys.exit()
             else:
                 print("Invalid responde")
                 start()
@@ -107,7 +108,7 @@ def download_links():
             if again == "Y":
                 start()
             elif again == "N":
-                exit()
+                sys.exit()
             else:
                 print("Invalid responde")
                 start()
@@ -136,7 +137,7 @@ def cpu_components():
             if again == "Y":
                 start()
             elif again == "N":
-                exit()
+                sys.exit()
             else:
                 print("Invalid responde")
                 start()
