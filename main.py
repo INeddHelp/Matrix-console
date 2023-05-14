@@ -67,8 +67,8 @@ def start():
 def sql_injection_init():
     global percentage
     while True and percentage < 101:
-        if not percentage == 100:
-            if not percentage < 50:
+        if percentage != 100:
+            if percentage >= 50:
                 percentage += 1
                 print(
                     f"SQL Injection compilation {percentage}% ... \x1b[1;32m{random.randint(memory_moved, 4080)} {random.choice(device_storage)}\x1b[0m")
