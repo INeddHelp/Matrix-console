@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8eff497-fc31-4f9f-a288-05dc4c13db39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/16/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/17/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/17/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/17/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/17/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/18/aMillionDollarPainting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/18/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/18/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/18/random_walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/18/spirograph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/19/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/19/turtle_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/20/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/20/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/20/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/20/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/21/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/22/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/22/computer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/22/middle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/22/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/new_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/squirrel_count.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/squirrels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/us-states-game-start.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/us-states-game-start/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/us-states-game-start/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/us-states-game-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/25/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/26.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/26.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/26.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/26.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/26.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/NATO-alphabet-start.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/NATO-alphabet-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/NATO-alphabet-start/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/26/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/27/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/27/mile to km.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/27/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/28/pomodoro-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/28/pomodoro-start/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/29/password-manager-start/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100 Days of coding/29/password-manager-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100 Days of coding/15/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../100 Days of coding/15/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PkLptkvr0uxpiMqhR8zdPxG0FZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/leonardo/Desktop/Deskbottom/pl/Python/dictonary",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8eff497-fc31-4f9f-a288-05dc4c13db39" name="Changes" comment="" />
+      <created>1683996318768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683996318768</updated>
+      <workItem from="1683996320375" duration="547000" />
+      <workItem from="1684001527365" duration="599000" />
+      <workItem from="1684079116809" duration="1812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dictonary$main.coverage" NAME="main Coverage Results" MODIFIED="1683996688854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
