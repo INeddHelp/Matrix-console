@@ -12,7 +12,12 @@ Overall, the "matrix-console" project is a fun and engaging way to experience so
 
 ## On Windows 
 
-Navigate to the `dist` folder and double-click the file `main`
+Open the terminal and type:
+
+```bash
+cd dist/
+main
+```
 
 ## On Linux
 
