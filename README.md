@@ -52,7 +52,10 @@ cd ..
 
 ### On macOS
 
-Soon
+```bash
+chmod +x dist/main
+sh dist/main
+```
 
 # Contribution
 
